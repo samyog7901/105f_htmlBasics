@@ -79,7 +79,7 @@ background-color: var(--primaryColor);
 }
 .hero .right img{
     height: 55vh;
-    border-radius: 50% 20% / 10% 40%;
+    border-radius: 50% 20% / 10% 45%;
     padding-right: 2rem;
     margin-bottom: -3rem;
     transform: rotate(2deg);
