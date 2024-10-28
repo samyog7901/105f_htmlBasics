@@ -1,0 +1,28 @@
+*{
+    background-color: #ebebeb;
+    color: whitesmoke;
+}
+p:first-child{
+    color: blue;
+}
+p:hover {
+    background-color: black;
+}
+p:nth-child(2){
+    color:blue;
+}
+
+p::first-letter{
+    font-size: 40px;
+}
+
+p::selection{
+    color: aquamarine;
+}
+p:nth-of-type(odd){
+    color: red;
+}
+
+p:nth-of-type(even){
+    color: blue;
+}

@@ -1,0 +1,10 @@
+.parent{
+    background-color: aqua;
+    height: 50vh;
+    font-size: 5em;
+}
+.child{
+    background-color: antiquewhite;
+    height: 50vh;
+    font-size: 2em;
+}

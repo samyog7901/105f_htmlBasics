@@ -1,0 +1,14 @@
+.container{
+    background-color: bisque;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   
+}
+
+.item{
+background-color: violet;
+margin: 6px;
+}

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* #header{
+    border: 1px solid black;
+} */
+/* 
+body{
+    background-image: url('./460958813_552528937182346_2313623986700621915_n.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}  
+*/
+
+.container{
+    background-image: url('https://www.schems.edu.np/uploads/posts/Introduction-1696502781.webp');
+    /* background-color: aquamarine !important; */
+    background-repeat: no-repeat;
+    background-size: 1200px 1200px;
+    background-position: center;
+
+
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 80vh;
+    color: aqua;
+
+   
+  
+}
+h1{
+    font-size: 2rem;
+}
