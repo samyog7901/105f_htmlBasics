@@ -23,6 +23,10 @@ nav{
     height: 8vh;
     border-bottom: 1px solid var(--darkColor);
 }
+#navbar{
+    position: fixed;
+    width: 100%;
+}
 
 nav ul{
   width: 40%;
