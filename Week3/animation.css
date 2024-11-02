@@ -1,0 +1,44 @@
+/* p{
+    animation: RadheRadhe 10s ease-out infinite;
+}
+
+@keyframes RadheRadhe{
+    0%{
+        color: blue;
+    }
+    50%{
+        color: red;
+        margin-left: 300px;
+    }
+    100%{
+        color: yellow;
+       margin-left: 600px;
+       font-size: 40px;
+    }
+
+} */
+ .container{
+ width: 100vw;
+ }
+ .div1{
+ height: 200px;
+ width: 200px;
+ background-color: yellow;
+ border: 2px solid red;
+ animation: changeBGcolor 10s ease-in-out infinite
+ }
+
+ @keyframes changeBGcolor{
+    from{
+        background-color: red;
+    }
+    50%{
+        background-color: blue;
+        margin-left: 100%;
+        border: 50px solid black;
+    }
+    to{
+        background-color: orangered;
+     
+    }
+ }
