@@ -261,3 +261,7 @@ button:hover{
     background-color:  #aea8e6;
     color: aqua;
 }
+
+p{
+    display: block;
+}
