@@ -45,19 +45,19 @@ nav ul li:hover{
 
 nav ul li{
     color: var(--lightColor);
-    transition: color .4s ease-in-out;aa
+    transition: color .4s ease-in-out;
 }
 
 nav h1{
     font-size: 2.5rem;
-    color: var(--darkColor);
+    color: var(--lightColor);
     padding-left: 1rem;
     
 }
 
 nav h1 span{
     font-size: 2.5rem;
-    color: var(--lightColor);
+    color: var(--darkColor);
     font-weight: 300;
 }
 .hero{
